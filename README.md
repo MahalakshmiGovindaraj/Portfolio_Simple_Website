@@ -15,5 +15,4 @@ CSS3 (no frameworks or libraries)
 The goal of this project is to create a minimal personal website to showcase your presence online and provide a simple way for others to contact you.
 
 🌐 Live Demo
-[Add your live website link here if hosted]
-
+https://mahalakshmigovindaraj.github.io/Portfolio_Simple_Website/
